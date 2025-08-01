@@ -7,6 +7,6 @@ Ce fichier permet de lance une interface Dash, utilisant la classe présente dan
 Cette dernière classe se sert des différents fichiers présents dans le dossier 'BondSwap' afin de réaliser les différentes commandes. 
 
 - Pour le projet 2 : il faut lancer le fichier "main_options.ipynb". 
-Ce fichier est un notebook utilisant les classes et méthodes définies dans le dossier 'Options'. 
+Ce fichier est un notebook utilisant les classes et méthodes définies dans le dossier 'Options'. Dans ce projet, nous avons effectué un pricing d'options européennes, asiatiques et barrières. 
 
-- Enfin, le projet 3 se trouve dans le notebook "gestion_active_dash.ipynb"
+- Enfin, le projet 3 se trouve dans le notebook "gestion_active_dash.ipynb". Ce projet se concentre sur la construction d'un portefeuille optimal. 
